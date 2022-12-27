@@ -8,13 +8,6 @@ Some of the key features of this application is-
 ### Note
 Some features will ask for a password. This is currently hardcoded to be ```FileEncDec```.
 
-# How to directly use the app
-Download a release version from the link down below and follow the steps given there-
-
-https://github.com/SoubhikSen02/File_Encryptor/releases
-
-Currently release version supports Windows devices only
-
 # How to compile from source code
 Make sure JDK is installed and environment variables are set up before following any of the compilation steps. To check for JDK, open CMD and type these two commands one by one-
 ```
